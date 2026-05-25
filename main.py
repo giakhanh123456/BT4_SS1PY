@@ -60,4 +60,4 @@ print("⇒ Kiểu dữ liệu hệ thống ghi nhận:", type(temperature))
 print("Nhịp tim:", heart_rate, "nhịp/phút")
 print("⇒ Kiểu dữ liệu hệ thống ghi nhận:", type(heart_rate))
 
-print("Thông báo: Dữ liệu hợp lệ. Màn hình Monitor đã sẵn sàng kết nối!")g
+print("Thông báo: Dữ liệu hợp lệ. Màn hình Monitor đã sẵn sàng kết nối!")
